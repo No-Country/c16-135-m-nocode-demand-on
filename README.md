@@ -61,6 +61,17 @@ Creemos en el poder de cada individuo para generar un impacto significativo. Dem
 
 Este proyecto aún está en desarrollo, por lo que durante la navegación podrías experimentar algunos errores, ya que estamos trabajando activamente en su mejora.
 
+## Creador
+
+Veronica Isabel Pereira
+
+- **Idea, Diseño y Desarrollo:** [Veronica Isabel Pereira](https://github.com/veronicaisabelpereira)
+
+## Demostración en Video
+
+- [Video Demo](https://www.youtube.com/watch?v=Ew7uHXA4rdc)
+
+
 ## Acceso al Entorno de Pruebas
 
 Puedes acceder al entorno de pruebas del proyecto [aquí](https://mcvipnocode.bubbleapps.io/version-test/login?v=login).
